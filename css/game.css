@@ -69,7 +69,7 @@ header {
 }
 
 .back {
-    background-image: url('/images/rainbowcard.png');
+    background-image: url('https://pedroe01.github.io/memorygame/images/rainbowcard.png');
     backface-visibility: hidden;
 }
 
